@@ -10,8 +10,8 @@ PDFFILES=$(TEXFILES:.tex=.pdf)
 .PHONY: all clean
 
 all:
-	$(PDFLATEX) `git log -1 --date=short --format=format:'\renewcommand{\datechanged}{Last Updated: Revision %h on %ad}'` '\input{constitution.tex}'
-	$(PDFLATEX) `git log -1 --date=short --format=format:'\renewcommand{\datechanged}{Last Updated: Revision %h on %ad}'` '\input{constitution.tex}'
+	$(PDFLATEX) --shell-escape `git log -1 --date=short --format=format:'\newcommand{\datechanged}{Last Updated: Revision %h on %ad}'` '\input{constitution.tex}'
+	$(PDFLATEX) --shell-escape `git log -1 --date=short --format=format:'\newcommand{\datechanged}{Last Updated: Revision %h on %ad}'` '\input{constitution.tex}'
 
 clean:
 	$(RM) $(PDFFILES)
