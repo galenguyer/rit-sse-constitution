@@ -264,27 +264,17 @@ Candidates for Primary Officer roles in the Society must meet the following
 requirements by the start of the term in which they would take office:
 
 
-+----------------+------------+-------------------+
-
-| Position       | Year Level | Prior Involvement |
-
-+----------------+------------+-------------------+
-
-| President      | 4          | 2 academic terms  |
-
-+----------------+------------+-------------------+
-
-| Vice President | 3          | 1 academic term   |
-
-+----------------+------------+-------------------+
-
-| Treasurer      | -          | 1 academic term   |
-
-+----------------+------------+-------------------+
-
-| Secretary      | -          | -                 |
-
-+----------------+------------+-------------------+
+    +----------------+------------+-------------------+
+    | Position       | Year Level | Prior Involvement |
+    +----------------+------------+-------------------+
+    | President      | 4          | 2 academic terms  |
+    +----------------+------------+-------------------+
+    | Vice President | 3          | 1 academic term   |
+    +----------------+------------+-------------------+
+    | Treasurer      | -          | 1 academic term   |
+    +----------------+------------+-------------------+
+    | Secretary      | -          | -                 |
+    +----------------+------------+-------------------+
 
 
 “Year level” is counted by the lower of [A] years enrolled at least part-time in a higher-education institution post high school graduation, or [B] by RIT credits obtained following the scale published by the RIT Office of the Registrar.  “Prior Involvement” refers to the number of complete academic terms during which the candidate served as a Primary Officer or Committee Head. In the event a candidate has not previously served as a Primary Officer or Committee Head, two complete academic terms during which the candidate served as a Mentor with the society may be substituted to serve as one term of “Prior Involvement”. No more than one term of “Prior Involvement” earned through mentorship may be substituted as the requirements for any office.
